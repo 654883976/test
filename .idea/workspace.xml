@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a688fbad-c727-4f52-85a4-e6ae098354be" name="Default Changelist" comment="Merge branch 'master' of https://github.com/654883976/test&#10;&#10;# Conflicts:&#10;#&#9;t.txt">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/t.txt" beforeDir="false" afterPath="$PROJECT_DIR$/t.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +51,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -96,10 +96,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="493" y="0" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1614871408803" />
-    <state x="175" y="32" key="Vcs.Push.Dialog.v2" timestamp="1614911861426">
+    <state x="67" y="0" key="SettingsEditor" timestamp="1614912152183">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="175" y="32" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1614911861426" />
+    <state x="67" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1614912152183" />
+    <state x="175" y="32" key="Vcs.Push.Dialog.v2" timestamp="1614912103938">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="175" y="32" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1614912103938" />
     <state x="454" y="259" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1614911791614">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
