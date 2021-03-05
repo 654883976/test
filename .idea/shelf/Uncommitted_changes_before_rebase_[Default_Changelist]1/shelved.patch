@@ -1,0 +1,16 @@
+Index: t.txt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>riji xiede zheng hao\r\nshi bushi sha\r\n\r\n\r\ndd\r\n\r\n\r\n\r\n\r\n认识不开了\r\n\r\n\r\n\r\nss\r\nddKK\r\n\r\n\r\n...ss\r\n\r\n3333\r\n\r\nss\r\n\r\naa\r\n\r\nbb\r\n\r\ncc\r\n\r\ngg\r\n\r\nff\r\n\r\n\r\nhh\r\n\r\nuuuuu\r\n\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- t.txt	(revision 42cb84b393d8379a9974409cf0accdec4a560e5e)
++++ t.txt	(date 1614934822586)
+@@ -34,5 +34,5 @@
+ 
+ hh
+ 
+-uuuuu
++uuuuu ooooo
+ 
