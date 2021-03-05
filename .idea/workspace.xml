@@ -19,13 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a688fbad-c727-4f52-85a4-e6ae098354be" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="a688fbad-c727-4f52-85a4-e6ae098354be" name="Default Changelist" comment="Merge branch 'master' of https://github.com/654883976/test&#10;&#10;# Conflicts:&#10;#&#9;t.txt">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,12 +39,14 @@
     </option>
   </component>
   <component name="ProjectId" id="1pIWrsRG1GQUDQUwYS5K1jLy3zu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -78,18 +75,34 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Merge branch 'master' of https://github.com/654883976/test&#10;&#10;# Conflicts:&#10;#&#9;t.txt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of https://github.com/654883976/test&#10;&#10;# Conflicts:&#10;#&#9;t.txt" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="387" y="148" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1614904694671">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="387" y="148" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1614904694671" />
+    <state x="129" y="55" key="MergeDialog" timestamp="1614911772506">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="129" y="55" key="MergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1614911772506" />
+    <state x="232" y="68" key="MultipleFileMergeDialog" timestamp="1614911772535">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="232" y="68" key="MultipleFileMergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1614911772535" />
     <state x="493" y="0" key="RollbackChangesDialog" timestamp="1614871408803">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="493" y="0" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1614871408803" />
-    <state x="175" y="32" key="Vcs.Push.Dialog.v2" timestamp="1614871468745">
+    <state x="175" y="32" key="Vcs.Push.Dialog.v2" timestamp="1614911861426">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="175" y="32" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1614871468745" />
+    <state x="175" y="32" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1614911861426" />
+    <state x="454" y="259" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1614911791614">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="454" y="259" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1614911791614" />
   </component>
 </project>
