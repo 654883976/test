@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a688fbad-c727-4f52-85a4-e6ae098354be" name="Default Changelist" comment="Merge branch 'master' of https://github.com/654883976/test&#10;&#10;# Conflicts:&#10;#&#9;t.txt">
-      <change beforePath="$PROJECT_DIR$/t.txt" beforeDir="false" afterPath="$PROJECT_DIR$/t.txt" afterDir="false" />
-    </list>
+    <list default="true" id="a688fbad-c727-4f52-85a4-e6ae098354be" name="Default Changelist" comment="Merge branch 'master' of https://github.com/654883976/test&#10;&#10;# Conflicts:&#10;#&#9;t.txt" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
